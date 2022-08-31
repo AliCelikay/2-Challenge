@@ -1,0 +1,49 @@
+:root{
+    background-color: whitesmoke;
+}
+
+h1.page-title{
+    background-color: aliceblue;
+    color: black;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center; 
+    font-weight: bold;   
+}
+
+header nav {
+    background-color: black;
+    color: blue;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+nav ul li{
+    display: inline;
+    padding: 10px;
+    text-decoration: underline;
+}
+
+header section{
+    text-align: center;
+}
+
+.rounded-divider{
+    margin: 18px;
+    border-bottom: 6px solid #bbb;
+}
+
+.nav-words{
+    padding: 10px;
+    font-weight: bold;
+}
+
+.about-me-words{
+    padding: 10px 20px 10px 20px;
+}
+
+section.work-images{
+    padding: 20px;
+    margin: 20px;
+}
