@@ -1,7 +1,5 @@
-This challenge is an unfinished challenge. I did not have much time to work on this webpage but I will continue to work on it until I get a passing grade.
+This code shows a portfolio and talks about me, my projects, and shows how to get in contact with me. There is my picture at the top as well as my name. You can find more about me by cliking on any of the links in the nav bar to take you to the corresponding section of the page.
 
-There is a header with my name.
-There is a nav bar, however, the nav bar lists does not have links to take the webpage to the right section
-I have added a picture.
-I have added about me, work, and contact me sections.
+There is a link on the first image under the work section. If you click the image it will take you to the project I worked on with my group.
+
 
